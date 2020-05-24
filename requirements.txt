@@ -1,3 +1,4 @@
+gunicorn 
 whitenoise
 requests == 2.23.0
 django == 2.1.15
