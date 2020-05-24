@@ -6,5 +6,6 @@
 )](https://covidmapi.herokuapp.com/)
 
 This is just a simple API tracker for covid-19 latest information for eleminated, recovered, confirmed and deaths cases in morocco.
+
 you can try it here [![](https://img.shields.io/badge/Try%20it-violet?style=plastic&logo=heroku
 )](https://covidmapi.herokuapp.com/)
