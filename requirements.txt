@@ -1,3 +1,4 @@
-requests == 2.23.0 
+whitenoise
+requests == 2.23.0
 django == 2.1.15
 beautifulsoup4 == 4.9.1
